@@ -1,0 +1,24 @@
+2026-07-01 18:46:21,239 - INFO - Connected to Binance Futures Testnet
+2026-07-01 18:49:41,189 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:01:52,235 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:10:27,527 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:10:48,049 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:11:13,764 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:12:21,103 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:14:36,584 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:21:57,893 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:25:44,399 - INFO - Connected to Binance Futures Testnet
+2026-07-01 19:25:45,075 - INFO - Market Order: {'orderId': 18250333318, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ647e35a075438d1879b2b0', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782914147039}
+2026-07-01 19:53:43,940 | INFO | Connected to Binance Futures Testnet
+2026-07-01 19:55:05,108 | INFO | Connected to Binance Futures Testnet
+2026-07-01 19:55:05,111 | INFO | MARKET | BUY | BTCUSDT | Qty=0.001
+2026-07-01 19:55:06,059 | INFO | Response: {'orderId': 18255361817, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ54acc6f12c467bf64d7203', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782915907973}
+2026-07-01 19:55:18,210 | INFO | Connected to Binance Futures Testnet
+2026-07-01 19:55:18,213 | INFO | LIMIT | BUY | BTCUSDT | Qty=0.001 | Price=50000.0
+2026-07-01 19:55:18,777 | INFO | Response: {'orderId': 18255389542, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc5de4f946024b7172337ad', 'price': '50000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782915920725}
+2026-07-01 19:55:32,969 | INFO | Connected to Binance Futures Testnet
+2026-07-01 19:55:32,972 | INFO | LIMIT | SELL | BTCUSDT | Qty=0.001 | Price=120000.0
+2026-07-01 19:55:33,554 | INFO | Response: {'orderId': 18255427297, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ11bf433bb3a879cdd9b84', 'price': '120000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782915935487}
+2026-07-01 19:58:21,649 | INFO | Connected to Binance Futures Testnet
+2026-07-01 19:58:21,654 | INFO | MARKET ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-07-01 19:58:22,495 | INFO | MARKET ORDER SUCCESS | {'orderId': 18255924532, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ10533e3880dd05678e4456', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782916104441}
